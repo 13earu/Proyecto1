@@ -14,9 +14,15 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: brown;
+    color: wheat;
 }
 
 #container h1
 {
+    background-color: turquoise;
     font-size: 20px;
+    color: black;
+    padding: 10px;
+    margin: 0;
 }
