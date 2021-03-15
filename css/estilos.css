@@ -39,7 +39,6 @@ body
     padding: 10px;
     margin: 0;
 }
-<<<<<<< HEAD
 
 .footer {
     background-color: rgb(1, 10, 10);
@@ -49,10 +48,4 @@ body
     color: rgb(45, 248, 187);
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
-=======
-.history{
-    font-size: 25px;
-    color: rgb(187, 17, 173);
-    text-align: center;
->>>>>>> 50acaec8ab22d17609426c3774734252538baf40
 }
